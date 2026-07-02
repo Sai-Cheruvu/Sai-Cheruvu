@@ -25,9 +25,8 @@ I'm a **Software & AI Engineer** with **2 years of hands-on experience** buildin
 - 🛠️ **Background:** AI Engineering · Embedded Systems · SaaS QA · Cloud DevOps
 - 📍 **Based in:** Melbourne, Australia 🇦🇺
 - 🎯 **Mission:** Shipping intelligent systems that solve real-world problems — not toy demos
-- 📺 **Content:** Sharing AI & tech insights on YouTube · Medium · Instagram
-- 🏋️ **Off-screen:** Lifting weights, reading deep tech, and watching cricket (Go Virat! 🏏)
-- ⚡ **Fun fact:** I hold a NAATI certification for Telugu/English translation — yes, I'm multilingual *and* technical
+
+
 
 ---
 
@@ -135,9 +134,6 @@ I'm a **Software & AI Engineer** with **2 years of hands-on experience** buildin
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-cheruvu)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SaiBharadwaj)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saibharadwaj)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sai.bharadwaj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sai-Cheruvu)
 
 </div>
