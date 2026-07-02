@@ -21,7 +21,7 @@
 I'm a **Software & AI Engineer** with **2 years of hands-on experience** building production-grade AI systems, cloud-native DevOps pipelines, and embedded software solutions. I operate at the intersection of intelligent automation, infrastructure engineering, and applied machine learning.
 
 - 🤖 **Currently:** Building AI-powered products & automation systems at scale
-- 🎓 **Certifications:** Microsoft Azure AI-900 | AZ-900 | AI-102 (AZ-104 in progress)
+- 🎓 **Certifications:** Microsoft Azure AI-900 | AZ-900 | AI-102 (AZ-104 & AZ-400 in progress)
 - 🛠️ **Background:** AI Engineering · Embedded Systems · SaaS QA · Cloud DevOps
 - 📍 **Based in:** Melbourne, Australia 🇦🇺
 - 🎯 **Mission:** Shipping intelligent systems that solve real-world problems — not toy demos
