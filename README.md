@@ -158,6 +158,6 @@ I'm a **Software & AI Engineer** with **2 years of hands-on experience** buildin
 
 *"The best AI engineer is the one who ships — not the one who theorises."*
 
-**© 2025 Sai Bharadwaj Cheruvu** | Built with 💜 in Melbourne 🇦🇺
+**© 2026 Sai Bharadwaj Cheruvu** | Built with 💜 in Melbourne 🇦🇺
 
 </div>
